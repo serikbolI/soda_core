@@ -1,0 +1,3 @@
+table: ex_table
+column: size
+distribution_type: continuous

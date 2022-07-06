@@ -1,0 +1,13 @@
+pip-tools
+pytest
+python-dotenv
+tox
+tox-docker
+pytest-html
+pytest-cov
+Faker
+tbump
+black==22.1.0
+urllib3
+pygments
+readme-renderer
