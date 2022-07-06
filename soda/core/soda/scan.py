@@ -1,5 +1,5 @@
 from __future__ import annotations
-from soda.common.json_helper import JsonHelper
+
 import json
 import logging
 import os
@@ -23,7 +23,7 @@ from soda.soda_cloud.historic_descriptor import HistoricDescriptor
 from soda.sodacl.location import Location
 from soda.sodacl.sodacl_cfg import SodaCLCfg
 from soda.telemetry.soda_telemetry import SodaTelemetry
-
+from soda.common.json_helper import JsonHelper
 logger = logging.getLogger(__name__)
 verbose = False
 
